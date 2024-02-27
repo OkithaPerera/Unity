@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Login.unity
     guid: c53e859faddc1774880d3054134cfe41
   - enabled: 1
-    path: Assets/Scenes/WelcomeScreen.unity
+    path: Assets/Scenes/UCL AR map screen.unity
     guid: 8e84feece6394294e9a0aead09243a3e
   - enabled: 0
     path: Assets/Scenes/GetStarted.unity
