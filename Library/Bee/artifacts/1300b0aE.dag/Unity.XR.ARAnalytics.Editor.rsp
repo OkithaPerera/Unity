@@ -356,10 +356,10 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/unity/2022.3.12f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/unity/2022.3.12f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Library/PackageCache/com.unity.xr.arfoundation@5.1.0/Editor/ARAnalytics/ARAnalyticsConstants.cs"
-"Library/PackageCache/com.unity.xr.arfoundation@5.1.0/Editor/ARAnalytics/ARAnalyticsEvent.cs"
-"Library/PackageCache/com.unity.xr.arfoundation@5.1.0/Editor/ARAnalytics/AREditorAnalyticsEvent.cs"
-"Library/PackageCache/com.unity.xr.arfoundation@5.1.0/Editor/ARAnalytics/AssemblyInfo.cs"
+"Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Editor/ARAnalytics/ARAnalyticsConstants.cs"
+"Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Editor/ARAnalytics/ARAnalyticsEvent.cs"
+"Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Editor/ARAnalytics/AREditorAnalyticsEvent.cs"
+"Library/PackageCache/com.unity.xr.arfoundation@5.1.2/Editor/ARAnalytics/AssemblyInfo.cs"
 -langversion:9.0
 
 /deterministic
