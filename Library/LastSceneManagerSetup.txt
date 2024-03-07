@@ -1,5 +1,3 @@
-sceneSetups:
-- path: Assets/Scenes/SecondFloorAR.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa25de9d857e7acf3f39c835099a49a9865261789ee6ab730b6d2ddc1879ce9
+size 91
